@@ -7,3 +7,4 @@ Ikhodi yesiphetho sewebhusayithi ingumthombo ovulekile, wamukelekile ukusiza uku
 * [ikhodi yangaphambili](https://github.com/xxai-art/web)
 * [Amaphakethe olimi esayithi lilonke](https://github.com/xxai-art/web/tree/main/i18n)
 * [Amaphakethe olimi amamojula okungena ngemvume](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [Iwebhusayithi Yemibhalo Yezilimi Eziningi](https://github.com/xxai-doc)
